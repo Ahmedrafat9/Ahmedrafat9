@@ -8,13 +8,14 @@ managing scalable and resilient cloud solutions. Skilled in Terraform, CI/CD pip
 optimizing infrastructure for performance, cost, and reliability.
 
 ## 🏅 Certifications
-
 <p align="left">
-  <img src="https://ibb.co/BVwbBsSS" alt="AWS Solutions Architect Associate" width="100" />
-  <img src="https://images.credly.com/size/340x340/images/684f06c2-d8c4-4d51-900d-2fdf1e87e67d/image.png" alt="AWS Cloud Practitioner" width="100" />
-  
+  <a href="https://www.credly.com/badges/your-solutions-architect-badge-id" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0fcf7cd4-d5ef-4cd4-9b77-5b554d153d10/image.png" alt="AWS Solutions Architect Associate" width="120"/>
+  </a>
+  <a href="https://www.credly.com/badges/your-cloud-practitioner-badge-id" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/684f06c2-d8c4-4d51-900d-2fdf1e87e67d/image.png" alt="AWS Cloud Practitioner" width="120"/>
+  </a>
 </p>
-
 - ✅ AWS Certified Solutions Architect – Associate – [View Certificate](https://www.credly.com/badges/e09e3eab-7fa4-4b0e-ae50-48dbff30422b/linked_in?t=s5vo7u)
 - ✅ AWS Certified Cloud Practitioner – [View Certificate](https://www.credly.com/badges/5bdd358c-5e8b-4db8-8282-a03b722b7dbc/linked_in)
 
