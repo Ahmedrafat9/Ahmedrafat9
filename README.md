@@ -23,7 +23,7 @@ optimizing infrastructure for performance, cost, and reliability.
 
 
 <p align="left">
-  <img src="https://unpkg.com/aws-icons@latest/icons/CATEGORY/ICON_SVG_NAME.svg" alt="AWS" width="40" height="40"/>
+  <img src="images/aws_icon.png" alt="AWS Icon" width="50" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
@@ -61,11 +61,10 @@ optimizing infrastructure for performance, cost, and reliability.
 
 ## 📈 GitHub Stats
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedrafat9&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedrafat9&layout=compact&theme=tokyonight)
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedrafat9&show_icons=true&theme=dracula" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrafat9&layout=compact&theme=dracula" alt="Top Languages">
+</p>
 
 
 
