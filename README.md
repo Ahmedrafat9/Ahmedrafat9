@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi there 👋, I'm Ahmed!
+# Hi there 👋, I'm Ahmed Rafa!
 Welcome to my GitHub profile! I’m passionate about building scalable and secure DevOps solutions using modern tools and best practices. I believe in continuous improvement and always look for ways to automate and optimize workflows.
 
 Skilled DevOps Engineer with a strong foundation in cloud computing, automation, and infrastructure as code. AWS Certified
@@ -21,9 +20,11 @@ optimizing infrastructure for performance, cost, and reliability.
 - LinkedIn: [linkedin.com/in/ahmedrafat9](https://www.linkedin.com/in/ahmedrafat9/)
 - 💼 [Resume / CV](https://drive.google.com/drive/folders/1-Fcs6OL2Rdxi1KNyL4aU0Bh5KguOrwQn?usp=sharing)
 
+- ## 🔧 Tech Stack & Tools
+**DevOps & Cloud**
 
 <p align="left">
-  <img src="images/aws_icon.png" alt="AWS Icon" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" alt="AWS Icon" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
@@ -37,12 +38,9 @@ optimizing infrastructure for performance, cost, and reliability.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
-
 </p>
 
 
-- ## 🔧 Tech Stack & Tools
-**DevOps & Cloud**
 - ☁️ AWS
 - 🐧 Linu
 - 🔧 Terraform & CloudFormation
@@ -52,6 +50,7 @@ optimizing infrastructure for performance, cost, and reliability.
 - 💻 **Monitoring & Logging**
     - Prometheus, Grafana
     - AWS CloudWatch
+
  **Other Tools**
 - Git & GitHub
 - Nginx, Apache
@@ -60,12 +59,10 @@ optimizing infrastructure for performance, cost, and reliability.
 
 
 ## 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedrafat9&show_icons=true&theme=dracula" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrafat9&layout=compact&theme=dracula" alt="Top Languages">
 </p>
-
 
 
 ---
