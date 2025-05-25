@@ -10,8 +10,8 @@ optimizing infrastructure for performance, cost, and reliability.
 ## 🏅 Certifications
 
 
-[![AWS Certified Solutions Architect - Associate](https://images.credly.com/size/340x340/images/e09e3eab-7fa4-4b0e-ae50-48dbff30422b.png)](https://www.credly.com/badges/e09e3eab-7fa4-4b0e-ae50-48dbff30422b/linked_in)
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/5bdd358c-5e8b-4db8-8282-a03b722b7dbc.png)](https://www.credly.com/badges/5bdd358c-5e8b-4db8-8282-a03b722b7dbc/linked_in)
+[![AWS Certified Solutions Architect - Associate](https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/e09e3eab-7fa4-4b0e-ae50-48dbff30422b/linked_in)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/5bdd358c-5e8b-4db8-8282-a03b722b7dbc/linked_in)
 
 
 ## 📫 How to reach me
