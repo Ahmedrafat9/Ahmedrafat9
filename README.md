@@ -10,7 +10,7 @@ optimizing infrastructure for performance, cost, and reliability.
 ## 🏅 Certifications
 
 <p align="left">
-  <img src="https://images.credly.com/size/340x340/images/0fcf7cd4-d5ef-4cd4-9b77-5b554d153d10/image.png" alt="AWS Solutions Architect Associate" width="100" />
+  <img src="https://ibb.co/BVwbBsSS" alt="AWS Solutions Architect Associate" width="100" />
   <img src="https://images.credly.com/size/340x340/images/684f06c2-d8c4-4d51-900d-2fdf1e87e67d/image.png" alt="AWS Cloud Practitioner" width="100" />
   
 </p>
