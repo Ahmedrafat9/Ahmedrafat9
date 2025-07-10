@@ -58,13 +58,6 @@ optimizing infrastructure for performance, cost, and reliability.
 
 
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedrafat9&show_icons=true&theme=dracula" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrafat9&layout=compact&theme=dracula" alt="Top Languages">
-</p>
-
-
 ---
 
 ⭐️ _Thanks for visiting! Feel free to check out my repositories and reach out if you'd like to collaborate._  
